@@ -35,7 +35,7 @@ void loop() {
   delay(1000);
   lcd.clear();
     lcd.setCursor(5,1);   //Move cursor to character 2 on line 1
-  lcd.print("H 1285");
+  lcd.print("H ****");
   delay(1000);
   lcd.clear();
 
